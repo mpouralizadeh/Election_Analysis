@@ -2,7 +2,7 @@
 
 ## Project Overview
 A Colorado board of election employee has given you the following tasks to complete the election audit of a recent local congressional election.
-1. calculate the total number of votes cast.
+1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes.
 3. Calculate the total number of votes each candidate recieved.
 4. Calculate the percentage of votes each candidate won.
