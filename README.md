@@ -8,9 +8,9 @@ A Colorado board of election employee has given you the following tasks to compl
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the electon based on popular vote.
 6. Get a complete list of countie that participated in the election.
-3. Calculate the total number of votes each county cast.
-4. Calculate the percentage of votes each county won.
-5. Determine the largest county turout.
+7. Calculate the total number of votes each county cast.
+8. Calculate the percentage of votes each county won.
+9. Determine the largest county turout.
 
 ## Resources
 - Data source: election_results.csv
@@ -23,7 +23,7 @@ The analysis of the election shows that:
   - Charles Casper Stockham
   - Diana DeGette
   - Raymon Anthony Doane
-  - 
+   
 - The candidates results were:
   - Charles Casper Stockham recieved "23.0%" of the vote and "85,213" number of votes.
   - Diana DeGette recieved "73.8%" percentage of vote and "272,892" number of votes.
